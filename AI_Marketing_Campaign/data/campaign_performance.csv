@@ -1,0 +1,25 @@
+Campaign_ID,Date,Channel,Content_Type,Audience,Impressions,Clicks,Conversions,Spend_INR,Revenue_INR
+C001,2026-07-01,Instagram,Reel,Gen Z,12500,875,42,3200,12600
+C002,2026-07-02,Instagram,Carousel,Young Professionals,9800,588,31,2600,9300
+C003,2026-07-03,Google Ads,Search Ad,Young Professionals,15400,1078,56,5100,16800
+C004,2026-07-04,Email,Newsletter,Existing Customers,6200,806,48,900,14400
+C005,2026-07-05,Instagram,Story,Gen Z,11300,678,29,2100,8700
+C006,2026-07-06,Google Ads,Search Ad,Skincare Seekers,17200,1204,64,5600,19200
+C007,2026-07-07,Email,Product Email,Existing Customers,6800,952,61,1100,18300
+C008,2026-07-08,Instagram,Reel,Skincare Seekers,14800,1184,57,3500,17100
+C009,2026-07-09,Instagram,Carousel,Gen Z,10200,612,27,2400,8100
+C010,2026-07-10,Google Ads,Display Ad,Gen Z,18900,756,25,4300,7500
+C011,2026-07-11,Email,Newsletter,Young Professionals,7100,781,39,950,11700
+C012,2026-07-12,Instagram,Reel,Young Professionals,13600,952,46,3300,13800
+C013,2026-07-13,Google Ads,Search Ad,Skincare Seekers,18100,1448,71,5900,21300
+C014,2026-07-14,Email,Product Email,Existing Customers,7400,1110,73,1200,21900
+C015,2026-07-15,Instagram,Story,Gen Z,12100,726,34,2200,10200
+C016,2026-07-16,Google Ads,Display Ad,Young Professionals,16500,660,24,3900,7200
+C017,2026-07-17,Instagram,Reel,Skincare Seekers,15900,1272,63,3700,18900
+C018,2026-07-18,Email,Newsletter,Existing Customers,6900,897,55,900,16500
+C019,2026-07-19,Instagram,Carousel,Young Professionals,10900,763,35,2500,10500
+C020,2026-07-20,Google Ads,Search Ad,Young Professionals,17600,1232,62,5700,18600
+C021,2026-07-21,Email,Product Email,Existing Customers,7800,1248,79,1250,23700
+C022,2026-07-22,Instagram,Reel,Gen Z,14100,1128,51,3400,15300
+C023,2026-07-23,Google Ads,Search Ad,Skincare Seekers,19300,1544,76,6200,22800
+C024,2026-07-24,Instagram,Carousel,Skincare Seekers,11600,812,38,2700,11400
