@@ -2,8 +2,7 @@
 
 # ✦ FROM CURIOSITY → INSIGHT → IDEA ✦
 
-**Exploring the thinking behind the brands we notice, remember, and choose.**
-
+### Exploring how digital marketing turns attention into connection.
 `DIGITAL MARKETING`  ·  `CONSUMER INSIGHTS`  ·  `STRATEGY`  ·  `ANALYTICS`
 
 </div>
