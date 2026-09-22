@@ -1,13 +1,16 @@
 <div align="center">
 
-# ✦ FROM CURIOSITY → INSIGHT → IDEA ✦
+# ✦ PEOPLE → INSIGHTS → IDEAS → IMPACT ✦
 
-### Exploring how digital marketing turns attention into connection.
-`DIGITAL MARKETING`  ·  `CONSUMER INSIGHTS`  ·  `STRATEGY`  ·  `ANALYTICS`
+### Exploring how brands connect with people — through creativity, strategy & data.
+
+`DIGITAL MARKETING` · `CONSUMER INSIGHTS` · `CONTENT` · `STRATEGY` · `ANALYTICS`
 
 </div>
 
 ---
+
+Hi, I'm Neha 👋
 
 Hi, I'm Neha 👋
 
