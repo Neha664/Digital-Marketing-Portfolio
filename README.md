@@ -12,8 +12,6 @@
 
 Hi, I'm Neha 👋
 
-Hi, I'm Neha 👋
-
 I've always found it interesting how much thought goes into something as simple as seeing a product on our screen and deciding whether to stop, click,
 explore, or buy.
 
