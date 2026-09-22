@@ -226,31 +226,5 @@ Primary test metric: **qualified routine-builder engagement**, followed by produ
 
 ---
 
-# 🧠 Portfolio Takeaway
 
-This project demonstrates that I can move beyond reporting numbers and build a marketing decision process:
-
-**Market intelligence → Consumer understanding → Competitor intelligence → Digital audit → Strategic whitespace → Campaign strategy → Measurement**
-
----
-
-## ⚠️ Limitations
-
-This is a secondary-research case study. It does not claim:
-
-- private competitor campaign data
-- competitor ROAS or conversion rates
-- proprietary customer data
-- private social-media analytics
-- a primary survey conducted by the author
-
-Where direct measurement is unavailable, conclusions are presented as **strategic hypotheses**.
-
----
-
-## 🛠️ Tools
-
-**Web Research • Excel/CSV • Marketing Frameworks • Competitive Analysis • Consumer Personas • Content Strategy • Campaign Planning**
-
----
 
