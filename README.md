@@ -1,3 +1,15 @@
+<div align="center">
+
+# ✦ FROM CURIOSITY → INSIGHT → IDEA ✦
+
+**Exploring the thinking behind the brands we notice, remember, and choose.**
+
+`DIGITAL MARKETING`  ·  `CONSUMER INSIGHTS`  ·  `STRATEGY`  ·  `ANALYTICS`
+
+</div>
+
+---
+
 Hi, I'm Neha 👋
 
 I've always found it interesting how much thought goes into something as simple as seeing a product on our screen and deciding whether to stop, click,
